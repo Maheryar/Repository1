@@ -1,4 +1,4 @@
-
+puts "Welcome"
 puts "Please Enter Your Age"
 age = gets.chomp
 c = age.to_i
