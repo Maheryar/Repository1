@@ -3,7 +3,7 @@ puts "    "
 puts "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
 puts "*                        G U E S S I N G   G A M E                        *"
 
-puts "*                         Developer: Tahir Naqvi                          *"
+puts "*                         Developer: Tahir Naqvibest student                          *"
 puts "*                            Dated: 06APR2015                             *"
 puts "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
 
