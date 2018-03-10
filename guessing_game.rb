@@ -1,3 +1,4 @@
+puts"hello all"
 system "clear"
 puts "    "
 puts "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
@@ -6,6 +7,7 @@ puts "*                        G U E S S I N G   G A M E                        
 puts "*                         Developer: Tahir Naqvibest student                          *"
 puts "*                            Dated: 06APR2015                             *"
 puts "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+
 
 max_number = 99
 max_user_attempts = 10
